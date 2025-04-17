@@ -1,3 +1,4 @@
 # coffee-companion-app
 App to control the Newco Bistro Touch specialty coffee machine
-bcaaf4d351f8729aab76627c5a090e3c9d37ea43
+
+https://github.com/Poplel/coffee-companion-app/blob/5b1c7460633ab2032da22a5c751d6c34e05f3d00/F-Droid.apk
